@@ -8,9 +8,6 @@ import Foundation
  You can modify the input array in-place.
  */
 
-var input = [1, 2, 0]
-let expectedResult = 2
-
 func missingPositiveNumber(in input: [Int]) -> Int? {
 
     print("INPUT: \(input)")
